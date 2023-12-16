@@ -1,0 +1,71 @@
+body{
+    background-color:#FF91A4
+}
+h1{
+    color:white;
+}
+
+.mainBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30%;
+}
+.yesButton{
+   
+    margin-left: 30%;
+    margin-top: 50px;
+    color:white;
+    background-color: #FF69B4;
+    font-size: larger;
+    
+}
+
+.sth{
+    height: 300px;
+}
+.btn{
+    
+
+    width: 110px;
+    height: 40px;
+    color:white;
+    background-color: #FF69B4;
+    font-size: larger;
+    font-weight: 100;
+}
+
+.theImage{
+    height: 300px;
+}
+h3{
+    color:white;
+    font-family: 'Lucida Handwriting', cursive;
+}
+.no{
+   
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+.no:hover{
+    margin-top: 100px;
+    margin-left: 10;
+    
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+  }
+
+  button {
+   
+    font-size: 1.5rem;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 5px black;
+    background-color: white;
+  }
+  
